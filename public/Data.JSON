@@ -1,0 +1,65 @@
+[
+    {
+      "id": "GU01",
+      "crouse_name": "Guitar Chord Voicings: Playing Up The Neck",
+      "price": 260,
+      "details": "An ideal mini test which helps assess important parameters of blood.",
+      "img": "https://www.guitarlessonworld.com/wp-content/uploads/2015/12/FingerpickingTechnique.jpg"
+    },
+    {
+      "id": "GU02",
+      "crouse_name": "Guitar Scales and Chord Progressions",
+      "price": 260,
+      "details": "Full Body Checkup - Basic package includes Lipid, Liver, Thyroid more..",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtHfKkN07oEOSiQEL4rQJYr8HFMawm2XD-Q&usqp=CAU"
+    },
+    {
+      "id": "GU03",
+      "crouse_name": "Free Ultimate Beginners Guitar Lessons - Part 1",
+      "price": 270,
+      "details": "Tests for screening of the health status Like Lipid, Liver,Thyroid etc",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Av4NVi04HJMqj3TCm_OI31TW3yFlTuTUDA&usqp=CAU"
+    },
+    {
+      "id": "GU04",
+      "crouse_name": "Acoustic Guitar Basics",
+      "price": 320,
+      "details": "Tests includes Cardiac Risk Markers, Complete Hemogram,Diabetics,Liver, Thyroid more..",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ED1RN8NjWiQj8seRVr-rAsAOqmwYlQvUNQ&usqp=CAU"
+    },
+    {
+      "id": "GU05",
+      "crouse_name": "Acoustic Guitar For Beginners",
+      "price": 150,
+      "details": "Get off tom the perfect start",
+      "img": "https://andylemaire.com/wp-content/uploads/2018/01/DSC_0501.jpg"
+    },
+    {
+      "id": "GU06",
+      "crouse_name": "Hands-On Guitar: The Beginner's Guide",
+      "price": 280,
+      "details": "Strumming your first chords",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1dHi5bUamRQNkINSIR0l_7ejoYRlbv6s0Q&usqp=CAU"
+    },
+    {
+      "id": "GU07",
+      "crouse_name": "Blues Guitar For Beginners",
+      "price": 300,
+      "details": "Laying the foundations",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMDPY_1Tmkp1MFCaazM-PA-BZ8JDR2IXoPGA&usqp=CAU"
+    },
+    {
+      "id": "GU08",
+      "crouse_name": "Guitar 201: Breakthroughs",
+      "price": 120,
+      "details": "Start Your Journey To Understanding Models",
+      "img": "https://c1.wallpaperflare.com/preview/422/415/641/guitar-finger-picked-acoustic-hand.jpg"
+    },
+    {
+      "id": "GU09",
+      "crouse_name": "Guitar Performance Techniques",
+      "price": 160,
+      "details": "Build your foundations for true blues!",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4NLLHuiHMagnyPTQZ1wcAPrqtiWNhRZ7Ww&usqp=CAU"
+    }
+  ]

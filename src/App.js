@@ -20,9 +20,12 @@ function App() {
      
      <Router>
         <Header></Header>
-
        <Switch>
-            <Route exact path="/crouses">
+
+            <Route exact path="/">
+              <Crouses></Crouses>
+            </Route>
+            <Route path="/crouses">
               <Crouses></Crouses>
             </Route>
             <Route path="/course">
@@ -34,7 +37,7 @@ function App() {
             <Route path="/contract">
                <Contact></Contact>
             </Route>
-            <Route path="/*">
+            <Route path="*">
                <PageNotFound></PageNotFound>
             </Route>
 
